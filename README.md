@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**AnshDubey1999/AnshDubey1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a [profession/interest], and I'm passionate about [what you're passionate about].
 
-Here are some ideas to get you started:
+## 🔭 My current projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Project 1](link to project)
+- [Project 2](link to project)
+- [Project 3](link to project)
+
+## 🌱 I'm currently learning
+
+- [Technology/Programming Language/Concept]
+
+## 💬 Ask me about
+
+- [Topic you're knowledgeable in]
+- [Another topic you're knowledgeable in]
+- [Etc.]
+
+## 📫 How to reach me
+
+- [Email](your email address)
+- [Twitter](link to your Twitter profile)
+- [LinkedIn](link to your LinkedIn profile)
+
+## 😄 Pronouns
+
+- [She/Her, He/Him, They/Them, etc.]
+
+## ⚡ Fun fact
+
+- [Interesting fact about yourself]
