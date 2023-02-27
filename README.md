@@ -18,10 +18,6 @@
     <a>
         <img alt="location" title="Location" src="https://custom-icon-badges.demolab.com/badge/Edmonton-AB-red?style=for-the-badge&logo=location&logoColor=white&labelColor=yellow"/></a>
     </a>
-    
-     <a>
-        <img alt="location" title="Location" src="https://custom-icon-badges.demolab.com/badge/Edmonton-AB-orange?style=for-the-badge&logo=location&logoColor=white"/></a>
-    </a>
 </p>
 
 ---
