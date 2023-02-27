@@ -1,4 +1,4 @@
-# [shark](https://user-images.githubusercontent.com/43154989/221484522-eea8e8dd-588f-46f2-9c48-4e691b3da94a.png) Ansh Dubey
+# [shark](images/shark.png) Ansh Dubey
 
 
 Welcome to my GitHub profile! I'm a [profession/interest], and I'm passionate about [what you're passionate about].
