@@ -1,4 +1,4 @@
-# Ansh Dubey        ![shark](images/shark-3.png)
+# Ansh Dubey &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;![shark](images/shark-3.png)
 
 
 Welcome to my GitHub profile! I'm a [profession/interest], and I'm passionate about [what you're passionate about].
