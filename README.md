@@ -3,7 +3,7 @@
 **`Software Engineer Co-op @ Intuit`**
 
 <p align="center">
-  <img src="assets/coding.gif" style="height: 200px; width: 200px;"/>
+  <img src="assets/coding.gif" style="height: 150px; width: 200px;"/>
 </p>
 
  Hello there!👋 
