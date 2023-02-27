@@ -2,8 +2,9 @@
 
 **`Software Engineer Co-op @ Intuit`**
 
-
-![coding](assets/coding.gif)
+<p align="center">
+  <img src="assets/coding.gif" />
+</p>
 
 ## 🔭 My current projects
 
