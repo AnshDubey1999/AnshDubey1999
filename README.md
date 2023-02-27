@@ -1,7 +1,8 @@
-# <img src="images/shark-3.png" style="display:inline-block; margin-right:10px;"> Ansh Dubey
+# <img src="assets/shark-3.png" style="display:inline-block; margin-right:10px;"> Ansh Dubey
 
 **`Software Engineer Co-op @ Intuit`**
 
+![coding](assets/giphy.gif)
 
 ## 🔭 My current projects
 
