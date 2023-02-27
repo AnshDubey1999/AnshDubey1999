@@ -1,7 +1,10 @@
-# ![shark](images/shark-3.png) &nbsp; Ansh Dubey
+<img src="images/shark-3.png" style="display:inline-block; margin-right:10px;"> 
+<h1 style="display:inline-block; text-decoration:none; border-bottom: none;">A<h2 style="display:inline-block; margin-right:5px;">NSH</h2></h1>
+<h1 style="display:inline-block; text-decoration:none; border-bottom: none; padding-bottom: 0px;">D<h2 style="display:inline-block;">UBEY</h2></h1>
+
+<hr style="margin-top: -10px;">
 
 
-Welcome to my GitHub profile! I'm a [profession/interest], and I'm passionate about [what you're passionate about].
 
 ## 🔭 My current projects
 
