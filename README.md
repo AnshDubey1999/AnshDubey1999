@@ -8,7 +8,7 @@
 
  Hello there!👋 
  
- I'm a full stack developer with a passion for building amazing things! My expertise lies in web development, software engineering, mobile development, and more. I love taking on new challenges and solving complex problems with elegant solutions.
+ I'm a full stack developer with a passion for building amazing things! My expertise lies in web/mobile development, and generally in Software Engineering. I love taking on new challenges and solving complex problems with elegant solutions.
 
  <p align="left">
       <a href="https://github.com/AnshDubey1999?tab=followers">
