@@ -6,6 +6,9 @@
   <img src="assets/coding.gif" />
 </p>
 
+ Hello there!👋 
+ 
+ I'm a full stack developer with a passion for building amazing things! My expertise lies in web development, software engineering, mobile development, and more. I love taking on new challenges and solving complex problems with elegant solutions.
 ## 🔭 My current projects
 
 - [Project 1](link to project)
