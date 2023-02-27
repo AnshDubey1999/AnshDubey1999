@@ -1,4 +1,5 @@
-# <img src="images/shark-3.png" style="display:inline-block; margin-right:10px;"> Ansh Dubey
+<h1 style="border-bottom: 0px;"> <img src="images/shark-3.png" style="display:inline-block; margin-right:10px;"> Ansh Dubey </h1>
+
 
 
 ## 🔭 My current projects
