@@ -1,6 +1,6 @@
 # <img src="assets/shark-3.png" style="display:inline-block; margin-right:10px;"> Ansh Dubey
 
-**`Prev SWE @ Intuit`**
+**` SWE @ RenovationFind.com | Prev SWE @ Intuit`**
 
 <p align="center">
   <img src="assets/coding.gif" style="height: 150px; width: 200px;"/>
