@@ -47,5 +47,3 @@
 ### 📊 Stats
 
 ![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnshDubey1999&show_icons=true&theme=codeSTACKr)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AnshDubey1999&theme=gruvbox&border_radius=4.5)
